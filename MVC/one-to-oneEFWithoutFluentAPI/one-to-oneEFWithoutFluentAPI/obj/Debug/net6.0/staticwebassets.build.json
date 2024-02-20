@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qLABKEm9ebeEcABaY3YlBREhL+Kc4/liYzNNzDlCZFY=",
+  "Source": "one-to-oneEFWithoutFluentAPI",
+  "BasePath": "_content/one-to-oneEFWithoutFluentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

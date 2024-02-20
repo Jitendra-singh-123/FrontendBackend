@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\HexawareBatch2\\MVC\\HTMLfirst\\HTMLfirst\\wwwroot\\home1.html",
+      "PackagePath": "staticwebassets\\home1.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HTMLfirst.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HTMLfirst.props",
+      "PackagePath": "build\\HTMLfirst.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HTMLfirst.props",
+      "PackagePath": "buildMultiTargeting\\HTMLfirst.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HTMLfirst.props",
+      "PackagePath": "buildTransitive\\HTMLfirst.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

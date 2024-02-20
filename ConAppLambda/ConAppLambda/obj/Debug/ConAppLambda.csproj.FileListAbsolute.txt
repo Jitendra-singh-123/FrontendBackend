@@ -1,0 +1,7 @@
+E:\HexawareBatch2\ConAppLambda\ConAppLambda\bin\Debug\ConAppLambda.exe.config
+E:\HexawareBatch2\ConAppLambda\ConAppLambda\bin\Debug\ConAppLambda.exe
+E:\HexawareBatch2\ConAppLambda\ConAppLambda\bin\Debug\ConAppLambda.pdb
+E:\HexawareBatch2\ConAppLambda\ConAppLambda\obj\Debug\ConAppLambda.csproj.AssemblyReference.cache
+E:\HexawareBatch2\ConAppLambda\ConAppLambda\obj\Debug\ConAppLambda.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\ConAppLambda\ConAppLambda\obj\Debug\ConAppLambda.exe
+E:\HexawareBatch2\ConAppLambda\ConAppLambda\obj\Debug\ConAppLambda.pdb

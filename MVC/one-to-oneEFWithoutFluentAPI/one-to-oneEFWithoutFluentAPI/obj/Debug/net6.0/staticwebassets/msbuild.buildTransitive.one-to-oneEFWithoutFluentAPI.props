@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\one-to-oneEFWithoutFluentAPI.props" />
+</Project>

@@ -1,0 +1,12 @@
+E:\HexawareBatch2\MVC\EntityFrameworks\EntityFrameworks\bin\Debug\EntityFrameworks.exe.config
+E:\HexawareBatch2\MVC\EntityFrameworks\EntityFrameworks\bin\Debug\EntityFrameworks.exe
+E:\HexawareBatch2\MVC\EntityFrameworks\EntityFrameworks\bin\Debug\EntityFrameworks.pdb
+E:\HexawareBatch2\MVC\EntityFrameworks\EntityFrameworks\bin\Debug\EntityFramework.dll
+E:\HexawareBatch2\MVC\EntityFrameworks\EntityFrameworks\bin\Debug\EntityFramework.SqlServer.dll
+E:\HexawareBatch2\MVC\EntityFrameworks\EntityFrameworks\bin\Debug\EntityFramework.xml
+E:\HexawareBatch2\MVC\EntityFrameworks\EntityFrameworks\bin\Debug\EntityFramework.SqlServer.xml
+E:\HexawareBatch2\MVC\EntityFrameworks\EntityFrameworks\obj\Debug\EntityFrameworks.csproj.AssemblyReference.cache
+E:\HexawareBatch2\MVC\EntityFrameworks\EntityFrameworks\obj\Debug\EntityFrameworks.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\MVC\EntityFrameworks\EntityFrameworks\obj\Debug\EntityFrameworks.csproj.CopyComplete
+E:\HexawareBatch2\MVC\EntityFrameworks\EntityFrameworks\obj\Debug\EntityFrameworks.exe
+E:\HexawareBatch2\MVC\EntityFrameworks\EntityFrameworks\obj\Debug\EntityFrameworks.pdb

@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="../css/StyleSheet.css" rel="stylesheet" />
+    <script src="../js/CarListing.js"></script>
+    <title>Admin Table Check</title>
+</head>
+<body>
+    <ul class="navbar">
+        <li><a href="Admin.html">Admin</a></li>
+        <li><a href="User.html">User</a></li>
+        <li><a href="CarListing.html">Car Lists</a></li>
+        <li><a href="Feedback.html">Feedback</a></li>
+        <li><a href="Payment.html">Payment</a></li>
+        <li><a href="Reservation.html">Reservation</a></li>
+    </ul>
+
+    <h1>Welcome to Car List Page</h1>
+    <ul id="taskList"></ul>
+    <hr height="5px" />
+    <form id="createTaskForm" class="task-form">
+
+        <div>
+            <label for="Id">Car Id:</label><br />
+            <input type="text" id="Id" name="Id" readonly /><br />
+        </div>
+        <div>
+            <label for="Make"> Make:</label><br />
+            <input type="text" id="Make" name="Make" required /><br />
+
+        </div>
+
+
+        <div>
+            <label for="Model">Model:</label><br />
+            <input type="text" id="Model" name="Model" required /><br />
+        </div>
+
+
+
+        <div>
+            <label for="Location"> Location:</label><br />
+            <input type="text" id="Location" name="Location" /><br />
+        </div>
+
+
+        <div>
+            <label for="Specifications">Specifications:</label><br />
+            <input type="text" id="Specifications" name="Specifications" /><br />
+        </div>
+
+
+        <div>
+            <label for="DailyPrice">Daily Price:</label><br>
+            <input type="number" id="DailyPrice" name="DailyPrice" step="0.01" min="0.00" placeholder="Enter price"><br>
+        </div>
+
+        <div>
+            <label for="AvailableFrom">AvailableFrom:</label><br />
+            <input type="date" id="AvailableFrom" name="AvailableFrom" /><br />
+        </div>
+
+
+        <div>
+            <label for="AvailableTo">AvailableTo:</label><br />
+            <input type="date" id="AvailableTo" name="AvailableTo" /><br />
+        </div>
+
+        <div>
+            <label for="ImageUrl">ImageUrl:</label><br />
+            <input type="text" id="ImageUrl" name="ImageUrl" /><br />
+        </div>
+
+        <div>
+            <label for="CarPlateNumber">CarPlateNumber:</label><br />
+            <input type="text" id="CarPlateNumber" name="CarPlateNumber" /><br />
+        </div>
+
+        <div>
+            <label for="Status">Status:</label>
+            <select id="Status" name="Status">
+                <option value="Available">Available</option>
+                <option value="Not Available">Not Available</option>
+                <option value="Returned">Returned</option>
+
+            </select>
+        </div>
+
+
+
+        <button type="submit">Check</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="../css/StyleSheet.css" rel="stylesheet" />
+    <script src="../js/User.js"></script>
+    <title>Admin Table Check</title>
+</head>
+<body>
+    <ul class="navbar">
+        <li><a href="Admin.html">Admin</a></li>
+        <li><a href="User.html">User</a></li>
+        <li><a href="CarListing.html">Car Lists</a></li>
+        <li><a href="Feedback.html">Feedback</a></li>
+        <li><a href="Payment.html">Payment</a></li>
+        <li><a href="Reservation.html">Reservation</a></li>
+    </ul>
+
+
+
+    <h1>Check All the User</h1>
+    <ul id="taskList"></ul>
+    <hr height="5px" />
+
+
+    <form id="createTaskForm" class="task-form">
+        <label for="Id">User Id:</label><br />
+        <input type="text" id="Id" name="Id" readonly /><br />
+
+        <label for="FirstName">First Name:</label><br />
+        <input type="text" id="FirstName" name="FirstName" required /><br />
+
+        <label for="LastName">Last Name:</label><br />
+        <input type="text" id="LastName" name="LastName" required /><br />
+
+        <label for="Email"> Email:</label><br />
+        <input type="email" id="Email" name="Email" /><br />
+
+        <label for="Password">Password:</label><br />
+        <input type="password" id="Password" name="Password" required /><br />
+
+        <label for="PhoneNumber">PhoneNumber:</label><br />
+        <input type="text" id="PhoneNumber" name="PhoneNumber" /><br />
+
+        <label for="Address">Address:</label><br />
+        <input type="text" id="Address" name="Address" /><br />
+
+        <label for="LicenseNumber">License Number:</label><br />
+        <input type="text" id="LicenseNumber" name="LicenseNumber" /><br />
+
+
+
+        <button type="submit">Login</button>
+    </form>
+</body>
+</html>

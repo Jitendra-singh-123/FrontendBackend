@@ -1,0 +1,67 @@
+﻿@model IEnumerable<MVCDemo2.Models.Customer>
+
+@{
+	ViewData["Title"] = "Display";
+}
+
+<h1>Display</h1>
+
+<div class="d-flex justify-content-end mb-2">
+	<a asp-action="Create" class="btn btn-primary mb-1">Create New &nbsp;<i class="bi bi-plus-circle"></i> </a>
+</div>
+
+	
+
+
+
+<table class="table table-hover">
+
+	<thead>
+		<tr class="table-success">
+			<th>
+				@Html.DisplayNameFor(model => model.CustomerId)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Name)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.CEmail)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.OverDraftLimit)
+			</th>
+			<th>
+				&nbsp; &nbsp; &nbsp; &nbsp;  Actions
+			</th>
+		
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr class="table-primary">
+				<td>
+					@Html.DisplayFor(modelItem => item.CustomerId)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Name)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.CEmail)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.OverDraftLimit)
+				</td>
+
+				<td>
+					<div class="btn-group" role="group" aria-label="Customer Actions">
+						<a asp-action="Edit" asp-route-id="@item.CustomerId" class="btn btn-primary">Edit <i class="bi bi-pencil-square"></i></a>
+						<a asp-action="Details" asp-route-id="@item.CustomerId" class="btn btn-secondary">Details <i class="bi bi-ticket-detailed-fill"></i></a>
+						<a asp-action="Delete" asp-route-id="@item.CustomerId" class="btn btn-danger">Delete <i class="bi bi-trash3"></i></a>
+					</div>
+				</td>
+
+			</tr>
+		}
+	</tbody>
+</table>

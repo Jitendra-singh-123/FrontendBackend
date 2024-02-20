@@ -1,0 +1,49 @@
+/* _content/CarRentalSystemProject/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-k804h1awwf] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-k804h1awwf] {
+  color: #0077cc;
+}
+
+.btn-primary[b-k804h1awwf] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-k804h1awwf], .nav-pills .show > .nav-link[b-k804h1awwf] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-k804h1awwf] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-k804h1awwf] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-k804h1awwf] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-k804h1awwf] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-k804h1awwf] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

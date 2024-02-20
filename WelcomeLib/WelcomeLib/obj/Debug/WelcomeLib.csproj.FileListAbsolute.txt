@@ -1,0 +1,5 @@
+E:\HexawareBatch2\WelcomeLib\WelcomeLib\bin\Debug\WelcomeLib.dll
+E:\HexawareBatch2\WelcomeLib\WelcomeLib\bin\Debug\WelcomeLib.pdb
+E:\HexawareBatch2\WelcomeLib\WelcomeLib\obj\Debug\WelcomeLib.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\WelcomeLib\WelcomeLib\obj\Debug\WelcomeLib.dll
+E:\HexawareBatch2\WelcomeLib\WelcomeLib\obj\Debug\WelcomeLib.pdb

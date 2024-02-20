@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "CcNi2uNLMQ3T3Z+Mm8L4Hq9VdH8LOYKRFKTOlpqN6Ik=",
+  "Source": "WebApiHostExercise",
+  "BasePath": "_content/WebApiHostExercise",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiHostExercise\\wwwroot",
+      "Source": "WebApiHostExercise",
+      "ContentRoot": "E:\\HexawareBatch2\\MVC\\WebApiHostExercise\\WebApiHostExercise\\wwwroot\\",
+      "BasePath": "_content/WebApiHostExercise",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\HexawareBatch2\\MVC\\WebApiHostExercise\\WebApiHostExercise\\wwwroot\\css\\OurStyleSheet.css",
+      "SourceId": "WebApiHostExercise",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\HexawareBatch2\\MVC\\WebApiHostExercise\\WebApiHostExercise\\wwwroot\\",
+      "BasePath": "_content/WebApiHostExercise",
+      "RelativePath": "css/OurStyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\OurStyleSheet.css"
+    },
+    {
+      "Identity": "E:\\HexawareBatch2\\MVC\\WebApiHostExercise\\WebApiHostExercise\\wwwroot\\html\\Home.html",
+      "SourceId": "WebApiHostExercise",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\HexawareBatch2\\MVC\\WebApiHostExercise\\WebApiHostExercise\\wwwroot\\",
+      "BasePath": "_content/WebApiHostExercise",
+      "RelativePath": "html/Home.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\Home.html"
+    },
+    {
+      "Identity": "E:\\HexawareBatch2\\MVC\\WebApiHostExercise\\WebApiHostExercise\\wwwroot\\js\\js.js",
+      "SourceId": "WebApiHostExercise",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\HexawareBatch2\\MVC\\WebApiHostExercise\\WebApiHostExercise\\wwwroot\\",
+      "BasePath": "_content/WebApiHostExercise",
+      "RelativePath": "js/js.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\js.js"
+    }
+  ]
+}

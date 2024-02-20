@@ -1,0 +1,95 @@
+﻿body {
+    background-color: aqua;
+}
+
+h1, h2,h4, p {
+    text-align: center;
+}
+
+/* Top Panel */
+.topPanel {
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    right: 2%;
+    width: 96%;
+    height: 20%;
+    background-color: lightgoldenrodyellow;
+    color: darkblue;
+}
+
+/* Left Panel */
+.leftPanel {
+    position: absolute;
+    top: 24%;
+    left: 2%;
+    width: 20%;
+    height: 70%;
+    background-color: lightgoldenrodyellow;
+    color: darkblue;
+}
+
+/* Main Panel */
+.mainPanel {
+    position: absolute;
+    top: 24%;
+    left: 24%;
+    right: 2%;
+    width: 60%;
+    height: 70%;
+    background-color: lightgoldenrodyellow;
+    color: darkblue;
+}
+
+/* Right Panel */
+.rightPanel {
+    position: absolute;
+    top: 24%;
+    left: 85%;
+    right: 2%;
+    width: 13%;
+    height: 70%;
+    background-color: lightgoldenrodyellow;
+    color: darkblue;
+}
+
+/* Bottom Panel */
+.bottomPanel {
+    position: absolute;
+    top: 95%;
+    left: 2%;
+    right: 2%;
+    width: 96%;
+    height: 10%;
+    background-color: lightgoldenrodyellow;
+    color: gray;
+}
+
+
+
+
+.navigation {
+    list-style: none;
+    margin-top: 2px;
+    padding: 5px;
+}
+
+    .navigation li {
+        display: inline;
+        margin-right: 10px;
+    }
+
+    .navigation a {
+        text-decoration: none;
+        color: darkmagenta;
+        font-weight: bold;
+    }
+
+
+
+        .navigation a:hover {
+            text-decoration: underline;
+            background-color: yellow;
+            color: darkblue;
+            font-weight: bold;
+        }

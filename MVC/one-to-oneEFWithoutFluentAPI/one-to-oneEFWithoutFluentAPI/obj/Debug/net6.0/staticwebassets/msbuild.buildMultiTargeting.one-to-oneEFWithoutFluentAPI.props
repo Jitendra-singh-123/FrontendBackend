@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\one-to-oneEFWithoutFluentAPI.props" />
+</Project>

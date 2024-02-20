@@ -1,0 +1,12 @@
+E:\HexawareBatch2\MVC\EFexercise\EFexercise\bin\Debug\EFexercise.exe.config
+E:\HexawareBatch2\MVC\EFexercise\EFexercise\bin\Debug\EFexercise.exe
+E:\HexawareBatch2\MVC\EFexercise\EFexercise\bin\Debug\EFexercise.pdb
+E:\HexawareBatch2\MVC\EFexercise\EFexercise\bin\Debug\EntityFramework.dll
+E:\HexawareBatch2\MVC\EFexercise\EFexercise\bin\Debug\EntityFramework.SqlServer.dll
+E:\HexawareBatch2\MVC\EFexercise\EFexercise\bin\Debug\EntityFramework.xml
+E:\HexawareBatch2\MVC\EFexercise\EFexercise\bin\Debug\EntityFramework.SqlServer.xml
+E:\HexawareBatch2\MVC\EFexercise\EFexercise\obj\Debug\EFexercise.csproj.AssemblyReference.cache
+E:\HexawareBatch2\MVC\EFexercise\EFexercise\obj\Debug\EFexercise.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\MVC\EFexercise\EFexercise\obj\Debug\EFexercise.csproj.CopyComplete
+E:\HexawareBatch2\MVC\EFexercise\EFexercise\obj\Debug\EFexercise.exe
+E:\HexawareBatch2\MVC\EFexercise\EFexercise\obj\Debug\EFexercise.pdb

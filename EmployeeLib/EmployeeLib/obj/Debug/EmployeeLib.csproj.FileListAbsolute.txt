@@ -1,0 +1,6 @@
+E:\HexawareBatch2\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.dll
+E:\HexawareBatch2\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.pdb
+E:\HexawareBatch2\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+E:\HexawareBatch2\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.dll
+E:\HexawareBatch2\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.pdb

@@ -1,0 +1,9 @@
+E:\HexawareBatch2\UsingCalculatorAssembly\UsingCalculatorAssembly\bin\Debug\UsingCalculatorAssembly.exe.config
+E:\HexawareBatch2\UsingCalculatorAssembly\UsingCalculatorAssembly\bin\Debug\UsingCalculatorAssembly.exe
+E:\HexawareBatch2\UsingCalculatorAssembly\UsingCalculatorAssembly\bin\Debug\UsingCalculatorAssembly.pdb
+E:\HexawareBatch2\UsingCalculatorAssembly\UsingCalculatorAssembly\bin\Debug\Calculator.dll
+E:\HexawareBatch2\UsingCalculatorAssembly\UsingCalculatorAssembly\obj\Debug\UsingCalculatorAssembly.csproj.AssemblyReference.cache
+E:\HexawareBatch2\UsingCalculatorAssembly\UsingCalculatorAssembly\obj\Debug\UsingCalculatorAssembly.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\UsingCalculatorAssembly\UsingCalculatorAssembly\obj\Debug\UsingCalculatorAssembly.csproj.CopyComplete
+E:\HexawareBatch2\UsingCalculatorAssembly\UsingCalculatorAssembly\obj\Debug\UsingCalculatorAssembly.exe
+E:\HexawareBatch2\UsingCalculatorAssembly\UsingCalculatorAssembly\obj\Debug\UsingCalculatorAssembly.pdb

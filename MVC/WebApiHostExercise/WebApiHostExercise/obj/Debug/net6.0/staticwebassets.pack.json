@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\HexawareBatch2\\MVC\\WebApiHostExercise\\WebApiHostExercise\\wwwroot\\css\\OurStyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\OurStyleSheet.css"
+    },
+    {
+      "Id": "E:\\HexawareBatch2\\MVC\\WebApiHostExercise\\WebApiHostExercise\\wwwroot\\html\\Home.html",
+      "PackagePath": "staticwebassets\\html\\Home.html"
+    },
+    {
+      "Id": "E:\\HexawareBatch2\\MVC\\WebApiHostExercise\\WebApiHostExercise\\wwwroot\\js\\js.js",
+      "PackagePath": "staticwebassets\\js\\js.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApiHostExercise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApiHostExercise.props",
+      "PackagePath": "build\\WebApiHostExercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApiHostExercise.props",
+      "PackagePath": "buildMultiTargeting\\WebApiHostExercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApiHostExercise.props",
+      "PackagePath": "buildTransitive\\WebApiHostExercise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

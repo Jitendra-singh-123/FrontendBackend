@@ -1,0 +1,14 @@
+﻿Folders              Description
+1. App_Data			It Comprises of local  databases files(.mdf,.sdf)
+2. App_Start	 It Comprises of a set of classes that are intended to run on application startup
+				* RoutingConfig.cs
+				*BundleConfig.cs
+				*FilterConfig.cs
+				*Startup.Auth.cs
+
+3.Controllers	It comprises of controller classes.(Application specific logic)
+4.Models		It Comprises of class that represents the data we are working with(Businees Logic)
+5.Vies			It comprises of application UI
+				-Views(Pages)
+				-Partial Views(User Controls)
+				-Layouts(Master Pages)

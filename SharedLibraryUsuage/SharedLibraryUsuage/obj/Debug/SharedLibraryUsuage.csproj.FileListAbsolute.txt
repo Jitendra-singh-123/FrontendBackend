@@ -1,0 +1,10 @@
+E:\HexawareBatch2\SharedLibraryUsuage\SharedLibraryUsuage\bin\Debug\SharedLibraryUsuage.exe.config
+E:\HexawareBatch2\SharedLibraryUsuage\SharedLibraryUsuage\bin\Debug\SharedLibraryUsuage.exe
+E:\HexawareBatch2\SharedLibraryUsuage\SharedLibraryUsuage\bin\Debug\SharedLibraryUsuage.pdb
+E:\HexawareBatch2\SharedLibraryUsuage\SharedLibraryUsuage\bin\Debug\WelcomeLib.dll
+E:\HexawareBatch2\SharedLibraryUsuage\SharedLibraryUsuage\obj\Debug\SharedLibraryUsuage.csproj.AssemblyReference.cache
+E:\HexawareBatch2\SharedLibraryUsuage\SharedLibraryUsuage\obj\Debug\SharedLibraryUsuage.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\SharedLibraryUsuage\SharedLibraryUsuage\obj\Debug\SharedLibraryUsuage.csproj.CopyComplete
+E:\HexawareBatch2\SharedLibraryUsuage\SharedLibraryUsuage\obj\Debug\SharedLibraryUsuage.exe
+E:\HexawareBatch2\SharedLibraryUsuage\SharedLibraryUsuage\obj\Debug\SharedLibraryUsuage.pdb
+E:\HexawareBatch2\SharedLibraryUsuage\SharedLibraryUsuage\bin\Debug\WelcomeLib.pdb

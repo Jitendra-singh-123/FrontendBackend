@@ -1,0 +1,5 @@
+E:\HexawareBatch2\Calculator\Calculator\bin\Debug\Calculator.dll
+E:\HexawareBatch2\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\HexawareBatch2\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\Calculator\Calculator\obj\Debug\Calculator.dll
+E:\HexawareBatch2\Calculator\Calculator\obj\Debug\Calculator.pdb

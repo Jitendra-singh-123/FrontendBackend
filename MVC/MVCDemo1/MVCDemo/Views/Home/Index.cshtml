@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@*accessing the partial view*@
+@Html.Partial("Login")
+
+<br/>
+@*reusing again partial view*@
+@*Render Partialb block must be used in razor block*@
+@{ 
+    Html.RenderPartial("Login");
+}

@@ -1,0 +1,7 @@
+E:\HexawareBatch2\ConApp\ConApp\bin\Debug\ConApp.exe.config
+E:\HexawareBatch2\ConApp\ConApp\bin\Debug\ConApp.exe
+E:\HexawareBatch2\ConApp\ConApp\bin\Debug\ConApp.pdb
+E:\HexawareBatch2\ConApp\ConApp\obj\Debug\ConApp.csproj.AssemblyReference.cache
+E:\HexawareBatch2\ConApp\ConApp\obj\Debug\ConApp.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\ConApp\ConApp\obj\Debug\ConApp.exe
+E:\HexawareBatch2\ConApp\ConApp\obj\Debug\ConApp.pdb

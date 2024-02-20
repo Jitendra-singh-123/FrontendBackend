@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "V36wsLN0OG+TuypT0Als184tBoyCm6pzk4pzzAkXHkA=",
+  "Source": "HTMLfirst",
+  "BasePath": "_content/HTMLfirst",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HTMLfirst\\wwwroot",
+      "Source": "HTMLfirst",
+      "ContentRoot": "E:\\HexawareBatch2\\MVC\\HTMLfirst\\HTMLfirst\\wwwroot\\",
+      "BasePath": "_content/HTMLfirst",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\HexawareBatch2\\MVC\\HTMLfirst\\HTMLfirst\\wwwroot\\home1.html",
+      "SourceId": "HTMLfirst",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\HexawareBatch2\\MVC\\HTMLfirst\\HTMLfirst\\wwwroot\\",
+      "BasePath": "_content/HTMLfirst",
+      "RelativePath": "home1.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\home1.html"
+    }
+  ]
+}

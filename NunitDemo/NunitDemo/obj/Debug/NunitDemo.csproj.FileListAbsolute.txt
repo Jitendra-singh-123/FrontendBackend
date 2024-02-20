@@ -1,0 +1,11 @@
+E:\HexawareBatch2\NunitDemo\NunitDemo\bin\Debug\NunitDemo.dll
+E:\HexawareBatch2\NunitDemo\NunitDemo\bin\Debug\NunitDemo.pdb
+E:\HexawareBatch2\NunitDemo\NunitDemo\bin\Debug\nunit.framework.dll
+E:\HexawareBatch2\NunitDemo\NunitDemo\bin\Debug\nunit.framework.legacy.dll
+E:\HexawareBatch2\NunitDemo\NunitDemo\bin\Debug\nunit.framework.xml
+E:\HexawareBatch2\NunitDemo\NunitDemo\bin\Debug\nunit.framework.legacy.xml
+E:\HexawareBatch2\NunitDemo\NunitDemo\obj\Debug\NunitDemo.csproj.AssemblyReference.cache
+E:\HexawareBatch2\NunitDemo\NunitDemo\obj\Debug\NunitDemo.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\NunitDemo\NunitDemo\obj\Debug\NunitDemo.csproj.CopyComplete
+E:\HexawareBatch2\NunitDemo\NunitDemo\obj\Debug\NunitDemo.dll
+E:\HexawareBatch2\NunitDemo\NunitDemo\obj\Debug\NunitDemo.pdb

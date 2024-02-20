@@ -1,0 +1,39 @@
+﻿@import url('ourstyle.css');
+body{
+    background-color:lightgoldenrodyellow;
+    color:darkblue;
+}
+
+h1,h2{
+    text-align:center;
+}
+.topPanel{
+    position: absolute;
+    top:2%;
+    left:2%;
+    right:2%;
+    height: 20%;
+    width:96%;
+    background-color:lightcyan;
+    color:darkmagenta;
+}
+.mainPanel {
+    position: absolute;
+    top: 24%;
+    left: 2%;
+    right: 2%;
+    height: 60%;
+    width: 96%;
+    background-color: white;
+    color: darkblue;
+}
+.footerPanel {
+    position: absolute;
+    top: 86%;
+    left: 2%;
+    right: 2%;
+    height: 10%;
+    width: 96%;
+    background-color: lightcyan;
+    color: lightgray;
+}

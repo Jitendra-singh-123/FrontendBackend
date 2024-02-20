@@ -1,0 +1,12 @@
+E:\HexawareBatch2\MVC\EntityFrameworkExercise\EntityFrameworkExercise\bin\Debug\EntityFrameworkExercise.exe.config
+E:\HexawareBatch2\MVC\EntityFrameworkExercise\EntityFrameworkExercise\bin\Debug\EntityFrameworkExercise.exe
+E:\HexawareBatch2\MVC\EntityFrameworkExercise\EntityFrameworkExercise\bin\Debug\EntityFrameworkExercise.pdb
+E:\HexawareBatch2\MVC\EntityFrameworkExercise\EntityFrameworkExercise\bin\Debug\EntityFramework.dll
+E:\HexawareBatch2\MVC\EntityFrameworkExercise\EntityFrameworkExercise\bin\Debug\EntityFramework.SqlServer.dll
+E:\HexawareBatch2\MVC\EntityFrameworkExercise\EntityFrameworkExercise\bin\Debug\EntityFramework.xml
+E:\HexawareBatch2\MVC\EntityFrameworkExercise\EntityFrameworkExercise\bin\Debug\EntityFramework.SqlServer.xml
+E:\HexawareBatch2\MVC\EntityFrameworkExercise\EntityFrameworkExercise\obj\Debug\EntityFrameworkExercise.csproj.AssemblyReference.cache
+E:\HexawareBatch2\MVC\EntityFrameworkExercise\EntityFrameworkExercise\obj\Debug\EntityFrameworkExercise.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\MVC\EntityFrameworkExercise\EntityFrameworkExercise\obj\Debug\EntityFrameworkExercise.csproj.CopyComplete
+E:\HexawareBatch2\MVC\EntityFrameworkExercise\EntityFrameworkExercise\obj\Debug\EntityFrameworkExercise.exe
+E:\HexawareBatch2\MVC\EntityFrameworkExercise\EntityFrameworkExercise\obj\Debug\EntityFrameworkExercise.pdb

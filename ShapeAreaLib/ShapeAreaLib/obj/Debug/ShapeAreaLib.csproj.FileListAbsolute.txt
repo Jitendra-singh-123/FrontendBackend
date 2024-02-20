@@ -1,0 +1,6 @@
+E:\HexawareBatch2\ShapeAreaLib\ShapeAreaLib\bin\Debug\ShapeAreaLib.dll
+E:\HexawareBatch2\ShapeAreaLib\ShapeAreaLib\bin\Debug\ShapeAreaLib.pdb
+E:\HexawareBatch2\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.csproj.AssemblyReference.cache
+E:\HexawareBatch2\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.dll
+E:\HexawareBatch2\ShapeAreaLib\ShapeAreaLib\obj\Debug\ShapeAreaLib.pdb

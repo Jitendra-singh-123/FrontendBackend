@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<link href="~/css/OurStyle.css" rel="stylesheet" />
+
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div class = "topPanel">
+
+        <ul>
+            <li>
+                <a asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+            <li>
+                <a asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </li>
+            <li>
+                <a asp-controller="Student" asp-action="Display">Display Students</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="mainPanel">
+        @RenderBody()
+    </div>
+    <div class="footerPanel">
+        <p>All Rights Reserved to respective &reg;</p>
+    </div>
+</body>
+</html>

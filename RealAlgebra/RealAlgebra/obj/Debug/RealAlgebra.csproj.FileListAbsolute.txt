@@ -1,0 +1,10 @@
+E:\HexawareBatch2\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe.config
+E:\HexawareBatch2\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe
+E:\HexawareBatch2\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.pdb
+E:\HexawareBatch2\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.dll
+E:\HexawareBatch2\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.pdb
+E:\HexawareBatch2\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.AssemblyReference.cache
+E:\HexawareBatch2\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CopyComplete
+E:\HexawareBatch2\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.exe
+E:\HexawareBatch2\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.pdb

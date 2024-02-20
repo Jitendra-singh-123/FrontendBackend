@@ -1,0 +1,10 @@
+E:\HexawareBatch2\LibraryUsuage\LibraryUsuage\bin\Debug\LibraryUsuage.exe.config
+E:\HexawareBatch2\LibraryUsuage\LibraryUsuage\bin\Debug\LibraryUsuage.exe
+E:\HexawareBatch2\LibraryUsuage\LibraryUsuage\bin\Debug\LibraryUsuage.pdb
+E:\HexawareBatch2\LibraryUsuage\LibraryUsuage\bin\Debug\EmployeeLib.dll
+E:\HexawareBatch2\LibraryUsuage\LibraryUsuage\bin\Debug\EmployeeLib.pdb
+E:\HexawareBatch2\LibraryUsuage\LibraryUsuage\obj\Debug\LibraryUsuage.csproj.AssemblyReference.cache
+E:\HexawareBatch2\LibraryUsuage\LibraryUsuage\obj\Debug\LibraryUsuage.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\LibraryUsuage\LibraryUsuage\obj\Debug\LibraryUsuage.csproj.CopyComplete
+E:\HexawareBatch2\LibraryUsuage\LibraryUsuage\obj\Debug\LibraryUsuage.exe
+E:\HexawareBatch2\LibraryUsuage\LibraryUsuage\obj\Debug\LibraryUsuage.pdb

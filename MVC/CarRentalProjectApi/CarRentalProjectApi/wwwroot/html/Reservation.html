@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="../css/StyleSheet.css" rel="stylesheet" />
+    <script src="../js/Reservation.js"></script>
+    <title>Admin Table Check</title>
+</head>
+<body>
+    <ul class="navbar">
+        <li><a href="Admin.html">Admin</a></li>
+        <li><a href="User.html">User</a></li>
+        <li><a href="CarListing.html">Car Lists</a></li>
+        <li><a href="Feedback.html">Feedback</a></li>
+        <li><a href="Payment.html">Payment</a></li>
+        <li><a href="Reservation.html">Reservation</a></li>
+    </ul>
+
+    <h1>See All the Reservation</h1>
+    <ul id="taskList"></ul>
+    <hr height="5px" />
+    <form id="createTaskForm" class="task-form">
+        <label for="ReservationId">Reservation Id:</label><br />
+        <input type="text" id="ReservationId" name="ReservationId" readonly /><br />
+
+        <label for="UserId">UserId:</label><br />
+        <input type="number" id="UserId" name="UserId" /><br />
+
+        <label for="CarId">Car Id:</label><br />
+        <input type="number" id="CarId" name="CarId" /><br />
+
+        <label for="PickupDateTime"> PickupDateTime:</label><br />
+        <input type="date" id="PickupDateTime" name="PickupDateTime" /><br />
+
+        <label for="DropoffDateTime">DropoffDateTime:</label><br />
+        <input type="date" id="DropoffDateTime" name="DropoffDateTime" /><br />
+
+
+
+        <button type="submit">Check</button>
+    </form>
+</body>
+</html>

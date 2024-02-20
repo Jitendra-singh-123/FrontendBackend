@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EntityFrameWorkModelStoreContainer" CdmEntityContainer="EntityFrameWorkEntities">
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="EntityFrameWorkModel.Student">
+        <MappingFragment StoreEntitySet="Students">
+          <ScalarProperty Name="SId" ColumnName="SId" />
+          <ScalarProperty Name="SName" ColumnName="SName" />
+          <ScalarProperty Name="SFee" ColumnName="SFee" />
+          <ScalarProperty Name="SDob" ColumnName="SDob" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

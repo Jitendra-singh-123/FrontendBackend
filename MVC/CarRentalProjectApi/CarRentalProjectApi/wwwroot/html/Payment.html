@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="../css/StyleSheet.css" rel="stylesheet" />
+    <script src="../js/PaymentDetails.js"></script>
+    <title></title>
+</head>
+<body>
+    <ul class="navbar">
+        <li><a href="Admin.html">Admin</a></li>
+        <li><a href="User.html">User</a></li>
+        <li><a href="CarListing.html">Car Lists</a></li>
+        <li><a href="Feedback.html">Feedback</a></li>
+        <li><a href="Payment.html">Payment</a></li>
+        <li><a href="Reservation.html">Reservation</a></li>
+    </ul>
+
+    <h1>Check All Payment Detials</h1>
+    <ul id="taskList"></ul>
+    <hr height="5px" />
+    <form id="createTaskForm" class="task-form">
+        <label for="PaymentId">Payment Id:</label><br />
+        <input type="text" id="PaymentId" name="PaymentId" readonly /><br />
+
+        <label for="UserId">UserId:</label><br />
+        <input type="number" id="UserId" name="UserId" min="1" /><br />
+
+        <label for="CarId">Car Id:</label><br />
+        <input type="number" id="CarId" name="CarId" min="1" step="1" /><br />
+
+        <label for="PaymentMethod">Payment Method:</label>
+        <select id="PaymentMethod" name="PaymentMethod" required>
+            <option value="credit card">Credit Card</option>
+            <option value="debit card">Debit Card</option>
+            <option value="cash">Cash</option>
+            <option value="online">Online</option>
+        </select>
+
+        <label for="AccountDetails">Account Details:</label><br />
+        <input type="text" id="AccountDetails" name="AccountDetails" /><br />
+
+        <label for="CardDetails">Card Details:</label><br />
+        <input type="text" id="CardDetails" name="CardDetails" /><br />
+
+        <label for="Amount">Amount:</label><br />
+        <input type="number" id="Amount" name="Amount" step="0.01" min="0.00" /><br />
+
+        <label for="TransactionStatus">Transaction Status:</label>
+        <select id="TransactionStatus" name="TransactionStatus">
+            <option value="success">Success</option>
+            <option value="failed">Failed</option>
+        </select>
+
+        <label for="TransactionDate">Transaction Date</label>
+        <input type="date" id="TransactionDate" name="TransactionDate" /><br />
+
+        <button type="submit">Check</button>
+    </form>
+</body>
+</html>

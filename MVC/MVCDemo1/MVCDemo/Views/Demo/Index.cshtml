@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@*Hello! @ViewData["name"]*@ 
+
+<!--<h2>Product List</h2>
+<ol>-->
+    @*@foreach (var item in ViewData["products"])  won't work it need conversion (Drawback1)*@
+    @*@foreach (var item in (List<string>)ViewData["products"])
+    {
+        <li>@item</li>
+    }*@
+<!--</ol>-->
+
+
+Hello ! @ViewBag.name
+<h2>Categories List</h2>
+<ol>
+    @foreach (var item in ViewBag.categories)
+    {
+        <li>@item</li>
+    }
+</ol>
+

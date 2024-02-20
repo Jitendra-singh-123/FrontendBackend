@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\HexawareBatch2\\MVC\\CarRentalProjectApi\\CarRentalProjectApi\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "E:\\HexawareBatch2\\MVC\\CarRentalProjectApi\\CarRentalProjectApi\\wwwroot\\html\\Admin.html",
+      "PackagePath": "staticwebassets\\html\\Admin.html"
+    },
+    {
+      "Id": "E:\\HexawareBatch2\\MVC\\CarRentalProjectApi\\CarRentalProjectApi\\wwwroot\\js\\Admin.js",
+      "PackagePath": "staticwebassets\\js\\Admin.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CarRentalProjectApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CarRentalProjectApi.props",
+      "PackagePath": "build\\CarRentalProjectApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CarRentalProjectApi.props",
+      "PackagePath": "buildMultiTargeting\\CarRentalProjectApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CarRentalProjectApi.props",
+      "PackagePath": "buildTransitive\\CarRentalProjectApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

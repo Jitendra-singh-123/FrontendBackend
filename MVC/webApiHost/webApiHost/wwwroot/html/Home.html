@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link href="../css/OurStyle.css" rel="stylesheet" />
+    <script src="../js/OurScript.js"></script>
+    <meta charset="utf-8" />
+    <title>Home</title>
+</head>
+<body>
+    <h1>Welcome to Home</h1>
+    <ul id="taskList"></ul>
+    <hr height="5px" />
+    <form id="createTaskForm" class="task-form">
+        <label for="title">Title:</label><br />
+        <input type="text" id="title" name="title" required /><br />
+        <label for="description">Description:</label><br />
+        <input type="text" id="description" name="description" required /><br />
+        <label for="dueDate">Due Date:</label><br />
+        <input type="date" id="dueDate" name="dueDate" required /><br />
+        <button type="submit">Create Task</button>
+    </form>
+</body>
+</html>

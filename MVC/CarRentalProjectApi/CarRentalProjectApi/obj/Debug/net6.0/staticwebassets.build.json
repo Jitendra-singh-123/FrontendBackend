@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "SP+1qTtPw3kRLRCUk/rNJ+pgBOauJlvDuvgdswqy4Hk=",
+  "Source": "CarRentalProjectApi",
+  "BasePath": "_content/CarRentalProjectApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CarRentalProjectApi\\wwwroot",
+      "Source": "CarRentalProjectApi",
+      "ContentRoot": "E:\\HexawareBatch2\\MVC\\CarRentalProjectApi\\CarRentalProjectApi\\wwwroot\\",
+      "BasePath": "_content/CarRentalProjectApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\HexawareBatch2\\MVC\\CarRentalProjectApi\\CarRentalProjectApi\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "CarRentalProjectApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\HexawareBatch2\\MVC\\CarRentalProjectApi\\CarRentalProjectApi\\wwwroot\\",
+      "BasePath": "_content/CarRentalProjectApi",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
+    },
+    {
+      "Identity": "E:\\HexawareBatch2\\MVC\\CarRentalProjectApi\\CarRentalProjectApi\\wwwroot\\html\\Admin.html",
+      "SourceId": "CarRentalProjectApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\HexawareBatch2\\MVC\\CarRentalProjectApi\\CarRentalProjectApi\\wwwroot\\",
+      "BasePath": "_content/CarRentalProjectApi",
+      "RelativePath": "html/Admin.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\Admin.html"
+    },
+    {
+      "Identity": "E:\\HexawareBatch2\\MVC\\CarRentalProjectApi\\CarRentalProjectApi\\wwwroot\\js\\Admin.js",
+      "SourceId": "CarRentalProjectApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\HexawareBatch2\\MVC\\CarRentalProjectApi\\CarRentalProjectApi\\wwwroot\\",
+      "BasePath": "_content/CarRentalProjectApi",
+      "RelativePath": "js/Admin.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Admin.js"
+    }
+  ]
+}

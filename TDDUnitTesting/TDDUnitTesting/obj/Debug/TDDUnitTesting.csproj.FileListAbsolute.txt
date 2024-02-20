@@ -1,0 +1,13 @@
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\bin\Debug\TDDUnitTesting.dll
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\bin\Debug\TDDUnitTesting.pdb
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\obj\Debug\TDDUnitTesting.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\obj\Debug\TDDUnitTesting.csproj.CopyComplete
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\obj\Debug\TDDUnitTesting.dll
+E:\HexawareBatch2\TDDUnitTesting\TDDUnitTesting\obj\Debug\TDDUnitTesting.pdb

@@ -1,0 +1,14 @@
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.pdb
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.dll
+E:\HexawareBatch2\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.pdb
